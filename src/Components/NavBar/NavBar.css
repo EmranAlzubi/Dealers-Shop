@@ -1,0 +1,33 @@
+.navbar {
+  height: 205px;
+}
+.bar-content {
+  position: absolute;
+  height: 70px;
+  width: 100%;
+  left: 0px;
+  top: 60px;
+  background-color: #b5afaf94;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Categories ul {
+  margin-left: 39px;
+}
+a {
+  text-decoration: none;
+  color: black;
+  margin-left: 20px;
+}
+
+.Cart-lo {
+  margin-right: 100px;
+}
+.total-items {
+  width: 10px;
+  height: 19px;
+  font-weight: bold;
+  font-size: larger;
+  color: orangered;
+}

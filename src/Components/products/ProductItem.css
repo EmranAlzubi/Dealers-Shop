@@ -1,0 +1,25 @@
+.item-contanier {
+  width: 300px;
+  height: 250px;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: space-around;
+}
+.img {
+  width: 200px;
+  margin: 20px auto;
+  height: 50%;
+}
+.add {
+  background-color: #f86338;
+  border: #f86338;
+  border-radius: 8px;
+  width: 80px;
+  height: 40px;
+  margin: 10px;
+}
+.add:hover {
+  cursor: pointer;
+}

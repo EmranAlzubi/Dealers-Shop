@@ -1,0 +1,30 @@
+.container {
+  left: 0px;
+  top: 0px;
+  height: 93px;
+  display: flex;
+  justify-content: space-between;
+  align-items: first baseline;
+}
+.logo {
+  margin-left: 94px;
+  color: #f86338;
+}
+.info {
+  display: flex;
+  margin-right: 104px;
+}
+.call {
+  margin-right: 20px;
+  display: flex;
+}
+.call span {
+  margin-right: 5px;
+}
+.ship {
+  display: flex;
+  justify-content: space-between;
+}
+.ship span {
+  margin-right: 5px;
+}

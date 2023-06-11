@@ -1,0 +1,46 @@
+.cheak-out-card {
+  position: absolute;
+  left: 900px;
+  width: 300px;
+  height: 250px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.shipping-cont {
+  display: flex;
+  justify-content: space-around;
+}
+.ship {
+    font-weight: 600;
+    margin-right: 30px;
+}
+
+
+.total {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.total p {
+  font-weight: 600;
+}
+.total span {
+  margin-left: 60px;
+}
+.chek-out-con button {
+  width: 200px;
+  position: absolute;
+  background-color: #f86338;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 15px;
+  min-height: 30px;
+  min-width: 120px;
+  cursor: pointer;
+}
+.chek-out-con button:hover{
+    background-color: #8d2a0e;
+}

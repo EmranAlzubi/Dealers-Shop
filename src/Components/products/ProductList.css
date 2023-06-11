@@ -1,0 +1,21 @@
+.list-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.more-btn {
+  height: 50px;
+  width: 100px;
+  margin-top: 100px;
+  margin-left: 580px;
+  margin-bottom: 90px;
+  cursor: pointer;
+  background-color: #f86338;
+  border: none;
+  border-radius: 8px;
+  position: static;
+}
+.loading {
+  margin-left:  50%;
+  color: #f86338;
+}

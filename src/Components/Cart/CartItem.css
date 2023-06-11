@@ -1,0 +1,49 @@
+.cart-item-cont {
+  width: 400px;
+  height: 150px;
+  margin-left: 80px;
+  display: flex;
+  margin-bottom: 40px;
+}
+.img1 {
+  background-color: black;
+  width: 150px;
+  height: 120px;
+}
+.item-des {
+  margin-left: 30px;
+  text-align: left;
+  padding: 0;
+}
+
+.quntity {
+  max-width: 100px;
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.quntity button {
+  background-color: white;
+  border: none;
+  cursor: pointer;
+  font-size: large;
+}
+
+.pri-dele {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+}
+.pri-dele p {
+  color: #f86338;
+  font-size: larger;
+  font-weight: 900;
+}
+.pri-dele button {
+  height: fit-content;
+  background-color: white;
+  border: none;
+  cursor: pointer;
+}
